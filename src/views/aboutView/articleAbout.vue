@@ -89,7 +89,6 @@ export default {
 }
 
 .about {
-    margin-top: 0;
     text-align: center;
     padding: 1em;
     max-width: 600px;
@@ -98,6 +97,7 @@ export default {
     border: 1px solid #ccc;
     border-radius: 10px;
     background-color: #f9f9f9;
+    margin-top: 40em;
 }
 
 .draggable:active {
